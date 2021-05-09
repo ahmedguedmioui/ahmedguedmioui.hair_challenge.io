@@ -1,0 +1,39 @@
+{
+  "hair_challenge": {
+    "ads": {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "...",
+      "fb_banner": "...",
+      "fb_interstitial": "...",
+      "fb_native": "..."
+    },
+    "items": [
+      {
+        "image": "https://i.ibb.co/Xxwsj9F/stop.png",
+        "title": "Lift up your finger from the screen to stop",
+        "guide": "You’re going to stop walking if you stop touching the screen. This is an important thing because it will make you be able to look at the obstacles infront of you and think about what the best actoin you should take. It is also a good to stop your hair swinging and let it be straight."
+      },
+      {
+        "image": "https://i.ibb.co/9Z6yfzG/swipe.png",
+        "title": "Quick swipes lurch your hair",
+        "guide": "When you're walking zig-zags through circular saws, hair control is just as critical as foot control. Faster swipes will cause your hair to flutter behind you, leading it through the maze and increasing your chances of surviving. Or, to be more precise, not shaved."
+      },
+      {
+        "image": "https://i.ibb.co/T4h5p0w/behind.png",
+        "title": "Consider what is behind you",
+        "guide": "You shouldn't just focus on the obstacles in front of you; you should also consider what you've just been through. It's the contrast between long locks and a buzz cut that's the secret to success here."
+      },
+      {
+        "image": "https://i.ibb.co/w6C9Ldz/hole.png",
+        "title": "Avoid falling down holes",
+        "guide": "The runway can have holes from time to time. You must be cautious when these because if you you get your footing wrong, you will fall down and end your run. You'll be perfect if you give any holes a broad berth."
+      },
+      {
+        "image": "https://i.ibb.co/VjFPS5W/time.png",
+        "title": "Make sure your timing is right",
+        "guide": "This is one of the most critical aspects of the game. If you've worked out how to get through an obstacle without getting hurt, you'll want to do the same thing every time. It's not always It's not always quick, but mastering your timing through the more difficult , but mastering your timing through the more difficult hazards will put you in good stead for a high score."
+      }
+    ]
+  }
+}
